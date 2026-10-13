@@ -2,8 +2,6 @@
 
 EduConnect is a full-stack **MERN** web application that connects students with nearby tutors. Students can search for tutors by location and subject, book sessions, and chat with them — all in one place.
 
-🔗 **Live Demo:** [edu-connect-iota-three.vercel.app](https://edu-connect-iota-three.vercel.app)
-
 ---
 
 ## ✨ Features
@@ -27,7 +25,6 @@ EduConnect is a full-stack **MERN** web application that connects students with 
 | Backend    | Node.js, Express.js                                  |
 | Database   | MongoDB (Mongoose) with geospatial indexing          |
 | Auth       | JSON Web Tokens (JWT)                                |
-| Deployment | Vercel                                               |
 
 ---
 
